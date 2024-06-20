@@ -1,2 +1,0 @@
-this is the code in business2.txt file
-this is the extra code in business2-txt
